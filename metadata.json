@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Void: Survivor",
+  "description": "High-octane 60fps retro-cyberpunk roguelite arena survivor game with telegraphed hazards, boss encounters, and procedural Web Audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
